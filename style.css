@@ -46,15 +46,17 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 30px;
+    margin-bottom: 0px;
     width: 700px;
 }
 
 .search-city #search{
-    width: 647px;
-    height: 45px;
+    width: 659px;
+    height: 50px;
     border: none;
+    padding-left: 20px;
     /* border-radius: 10px; */
+    font-size: 20px;
     background-color: rgb(145, 145, 145);
 }
 
