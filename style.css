@@ -58,6 +58,7 @@ body{
     /* border-radius: 10px; */
     font-size: 20px;
     background-color: rgb(145, 145, 145);
+    outline: none;
 }
 
 .search-city button{
@@ -67,4 +68,6 @@ body{
     border: none;
     /* border-radius: 10px; */
     background-color: gray;
+    outline: none;
+    cursor: pointer;
 }
